@@ -41,6 +41,8 @@ public class Main {
 
         // Задание 3
 
+
+
         double average = 0;
         double sum1 = 0;
         for (int i : arr) {
